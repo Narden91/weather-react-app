@@ -1,7 +1,7 @@
 # Getting Started
 
 1. Open Git Bash where you want to clone the project
-2. '''git clone https://github.com/Narden91/weather-react-app.git '''
+2. ```git clone https://github.com/Narden91/weather-react-app.git```
 3. 
 4. Open cmd into the cloned directory 
 5. Type: "code ." to open VSCODE
