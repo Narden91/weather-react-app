@@ -1,34 +1,22 @@
 # Getting Started
 
-* Open Git Bash where you want to clone the project
-* Clone the repository:
-   * ```git clone https://github.com/Narden91/weather-react-app.git```
-* Open cmd into the project's directory and type:
-   *  ```code .```
-* Install all the dependencies:
-   *  ```npm install react-scripts```
-* Open the Application in a Browser Page:
-   *  ```yarn start```
+React.js application
 
-# Command resume
-
-    Markup :  `code()`
-
-**Lets Setup our react project in docker**
+## Command resume
 
 * Clone the repo
   
       git clone https://github.com/Narden91/weather-react-app.git
       
-> Open cmd into the project's directory and type:
+* Open cmd into the project's directory and type:
 
       code .
 
-> Install dependencies
+* Install dependencies
 
       npm install react-scripts
       
-> Open the Application in a Browser Page:
+* Open the Application in a Browser Page:
 
       yarn start
 
