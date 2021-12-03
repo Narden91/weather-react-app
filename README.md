@@ -2,7 +2,7 @@
 
 > Open Git Bash where you want to clone the project
 > Clone the repository:
-    git clone https://github.com/Narden91/weather-react-app.git
+        git clone https://github.com/Narden91/weather-react-app.git
 * Open cmd into the project's directory and type:
    *  ```code .```
 * Install all the dependencies:
