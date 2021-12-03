@@ -18,11 +18,19 @@
 
 > Clone the repo
   
-      git clone https://github.com/Marvinified/Dockerized-React-App.git
+      git clone https://github.com/Narden91/weather-react-app.git
+      
+> Open cmd into the project's directory and type:
 
-> install dependencies
+      code .
 
-      npm install
+> Install dependencies
+
+      npm install react-scripts
+      
+> Open the Application in a Browser Page:
+
+      yarn start
 
 ## Available Scripts
 
