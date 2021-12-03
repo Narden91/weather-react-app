@@ -16,7 +16,7 @@
 
 **Lets Setup our react project in docker**
 
-> Clone the repo
+* Clone the repo
   
       git clone https://github.com/Narden91/weather-react-app.git
       
