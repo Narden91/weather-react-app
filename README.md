@@ -14,22 +14,15 @@
 
     Markup :  `code()`
 
-```javascript
-    var specificLanguage_code = 
-    {
-        "data": {
-            "lookedUpPlatform": 1,
-            "query": "Kasabian+Test+Transmission",
-            "lookedUpItem": {
-                "name": "Test Transmission",
-                "artist": "Kasabian",
-                "album": "Kasabian",
-                "picture": null,
-                "link": "http://open.spotify.com/track/5jhJur5n4fasblLSCOcrTp"
-            }
-        }
-    }
-```
+**Lets Setup our react project in docker**
+
+> Clone the repo
+  
+      git clone https://github.com/Marvinified/Dockerized-React-App.git
+
+> install dependencies
+
+      npm install
 
 ## Available Scripts
 
