@@ -7,6 +7,27 @@
 5. Type: "npm install react-scripts" to install dependencies
 6. Type: "yarn start" to run the project in a browser page and start develop
 
+# Command resume
+
+    Markup :  `code()`
+
+```javascript
+    var specificLanguage_code = 
+    {
+        "data": {
+            "lookedUpPlatform": 1,
+            "query": "Kasabian+Test+Transmission",
+            "lookedUpItem": {
+                "name": "Test Transmission",
+                "artist": "Kasabian",
+                "album": "Kasabian",
+                "picture": null,
+                "link": "http://open.spotify.com/track/5jhJur5n4fasblLSCOcrTp"
+            }
+        }
+    }
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
