@@ -1,9 +1,11 @@
 # Getting Started
 
-1. git clone the repository
-2. cmd into the directory of the project
-3. npm install react-scripts
-4. yarn start
+1. Open Git Bash where you want to clone the project
+2. git clone the repository
+3. Open cmd into the cloned directory 
+4. Type: "code ." to open VSCODE
+5. Type: "npm install react-scripts" to install dependencies
+6. Type: "yarn start" to run the project in a browser page and start develop
 
 ## Available Scripts
 
