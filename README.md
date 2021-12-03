@@ -3,14 +3,12 @@
 * Open Git Bash where you want to clone the project
 * Clone the repository:
     * ```git clone https://github.com/Narden91/weather-react-app.git```
-* Open VSCODE:
-*  ```code .```
-4. ```npm install react-scripts```
-5. ```yarn start```
-6. Open cmd into the cloned directory 
-7. Type: "code ." to open VSCODE
-8. Type: "npm install react-scripts" to install dependencies
-9. Type: "yarn start" to run the project in a browser page and start develop
+* Open cmd into the project's directory and type:
+   *  ```code .```
+* Install all the dependencies:
+   *  ```npm install react-scripts```
+* Open the Application in a Browser Page:
+   *  ```yarn start```
 
 # Command resume
 
